@@ -2,6 +2,10 @@
 
 Take Home Test Web Programmer (React JS) PT Nutech Integrasi
 
+## Live Demo
+
+You can access the live demo here: https://amazing-kulfi-c90138.netlify.app/
+
 ## Features
 
 - **User Authentication:** Login and Registration with JWT handling
