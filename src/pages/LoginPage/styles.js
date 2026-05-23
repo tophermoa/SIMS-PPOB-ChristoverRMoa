@@ -1,0 +1,20 @@
+export const styles = {
+  fieldWrapper: "mb-[5px] relative",
+  container: "flex min-h-screen",
+  leftSide: "w-full lg:w-1/2 flex items-center justify-center px-6 py-12 relative",
+  formContainer: "w-full max-w-md",
+  logoContainer: "flex items-center justify-center gap-2 mb-8",
+  logoImage: "w-8 h-8",
+  logoText: "text-xl font-bold text-gray-900",
+  heading: "text-2xl font-bold text-gray-900 text-center leading-snug mb-10",
+  form: "flex flex-col gap-5",
+  inputWrapper: "relative",
+  iconWrapper: "absolute left-4 top-1/2 -translate-y-1/2 text-gray-400",
+  icon: "text-lg",
+  passwordToggle: "absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 bg-transparent border-none cursor-pointer",
+  submitButton: "btn-primary mt-4",
+  registerText: "text-center text-sm text-gray-500 mt-6",
+  registerLink: "text-red-500 font-semibold hover:underline",
+  rightSide: "hidden lg:block w-1/2 h-screen",
+  illustration: "w-full h-full object-cover"
+};

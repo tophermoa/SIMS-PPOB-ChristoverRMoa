@@ -1,0 +1,23 @@
+export const styles = {
+  container: "min-h-screen bg-white",
+  main: "max-w-2xl mx-auto px-6 py-10",
+  photoSection: "flex flex-col items-center mb-8",
+  photoContainer: "relative mb-4",
+  photoWrapper: "w-28 h-28 rounded-full overflow-hidden border border-gray-200",
+  photoImage: "w-full h-full object-cover",
+  photoEditButton: "absolute bottom-0 right-0 w-8 h-8 bg-white border border-gray-300 rounded-full flex items-center justify-center text-gray-500 hover:text-gray-700 cursor-pointer shadow-sm",
+  fileInput: "hidden",
+  userName: "text-3xl font-bold text-gray-900",
+  form: "flex flex-col gap-6",
+  fieldContainer: "relative",
+  label: "block text-sm font-medium text-gray-700 mb-2",
+  inputWrapper: "relative",
+  iconWrapper: "absolute left-4 top-1/2 -translate-y-1/2 text-gray-400",
+  inputReadonly: "input-field bg-gray-50 text-gray-500",
+  inputReadonlyButton: "input-field bg-gray-50 text-gray-500 text-base p-[14px]",
+  inputEditable: "input-field",
+  actionButtonsContainer: "mt-4 flex flex-col gap-4",
+  submitButton: "btn-outline-primary",
+  logoutButton: "btn-primary",
+  batalkanButton: "btn-primary text-white"
+};
